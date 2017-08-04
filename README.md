@@ -10,7 +10,7 @@ simple tool for crack hash [MD5]
 
 git clone https://github.com/Oseid/MD5-CRACKER.git
 
-Daownload Done ! :) 
+Download Done ! :) 
 
 # how your run the tool 
 
@@ -18,12 +18,12 @@ type this command
 
 python md5-cracker.py
 
-run this tool in python 2.7 
+Run this tool using python2.7
 
 she not work wtih python3 
 
 # that's all 
 
-tanks you for using 
+thanks you for using 
 
 have a good day :)
